@@ -4,3 +4,5 @@
 ## 사용 기술
 - Git
 - GitHub
+## CLI 실습
+- git status, branch, switch, add, commit 연습
